@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sarahhcheng
-- 👀 I’m interested in building and designing web pages and applications
+- 👀 I am an incoming second year Business and Computer Science student at UBC
 - 💞️ I’m looking to collaborate on any project ideas! Please let me know 
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/sarah-cheng-3608a7190/, Facebook - Sarah Cheng, Instagram - @sarahh.cheng
--                    
+- 📫 How to reach me: Email: sarahcheng40@gmail.com        
 
 <!---
 sarahhcheng/sarahhcheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
