@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahhcheng
 - 👀 I am an incoming second year Business and Computer Science student at UBC
-- 💞️ I’m looking to collaborate on any project ideas! Please let me know 
+- 💞️ I’m looking to collaborate on any project ideas! 
 - 📫 How to reach me: Email: sarahcheng40@gmail.com        
 
 <!---
