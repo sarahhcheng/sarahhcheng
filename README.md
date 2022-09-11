@@ -7,7 +7,6 @@
 👩🏻‍💻 I’m looking to collaborate on project ideas! 
 
 ✉️ Email: sarahcheng40@gmail.com 
-<test>this is a test</test>
 
 <h3>Connect with me! </h3>
 <a href="https://www.linkedin.com/in/sarah-cheng-/" ><img src="https://currentebikes.com/wp-content/uploads/linkedin-logo-3.png" width=32></a>
