@@ -1,8 +1,8 @@
 <h2> 👋 Hi, I’m Sarah Cheng </h2>
 
-- 👀 I am a second year Computer Science and Business student at UBC
+- 👀 A second year Computer Science and Business student at UBC
 - ⌨️ Currently a Security Response Program Manager Intern at BlackBerry
-- 💞️ I’m looking to collaborate on any project ideas! 
+- 💞️ I’m looking to collaborate on project ideas! 
 - 📫 Email: sarahcheng40@gmail.com        
 
 <h3>Connect with me! </h3>
