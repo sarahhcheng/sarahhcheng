@@ -5,7 +5,7 @@
 - 📫 Email: sarahcheng40@gmail.com        
 
 <h3>Connect with me! </h3>
-<a href="https://google.com" target="_blank" ><img src="https://www.practicepanther.com/wp-content/uploads/2016/06/linkedin-for-lawyers.png" width=32></a>
+<a href="https://google.com" target="_blank" rel="noopener noreferrer"><img src="https://www.practicepanther.com/wp-content/uploads/2016/06/linkedin-for-lawyers.png" width=32></a>
 
 <!---
 sarahhcheng/sarahhcheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
