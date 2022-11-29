@@ -4,12 +4,15 @@
 
 <img src="http://pluspng.com/img-png/blackberry-logo-png-bbm-blackberry-messenger-logo-png-transp-1819438-png-images-pluspng-2400x2400.png" width=15> Currently a Security Response Program Manager Intern at BlackBerry
 
-👩🏻‍💻 I’m looking to collaborate on project ideas! 
+👩🏻‍💻 I’m also an Undergraduate Teaching Assistant for CPSC 110: Intro to Programming at UBC
 
 ✉️ Email: sarahcheng40@gmail.com 
 
 <h3>Connect with me! </h3>
-<a href="https://www.linkedin.com/in/sarah-cheng-/" ><img src="https://currentebikes.com/wp-content/uploads/linkedin-logo-3.png" width=32></a>
+<a href="https://www.linkedin.com/in/sarah-cheng-/" ><img src="https://currentebikes.com/wp-content/uploads/linkedin-logo-3.png" width=32></a> 
+<a href="mailto:sarahcheng40@gmail.com">
+  <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
 <!---
 sarahhcheng/sarahhcheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
