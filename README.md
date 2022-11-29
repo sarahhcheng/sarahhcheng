@@ -6,13 +6,13 @@
 
 👩🏻‍💻 I’m also an Undergraduate Teaching Assistant for CPSC 110: Intro to Programming at UBC
 
-✉️ Email: sarahcheng40@gmail.com 
-
 <h3>Connect with me! </h3>
 <a href="https://www.linkedin.com/in/sarah-cheng-/" ><img src="https://currentebikes.com/wp-content/uploads/linkedin-logo-3.png" width=32></a> 
 <a href="mailto:sarahcheng40@gmail.com">
-  <img img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width=32 height=32 alt="Gmail"/>
-  </a>
+  <img img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width=52 height=32 alt="Gmail"/>
+  </a> <br />
+  <br />
+  <p> Let me know if you have any project ideas and want to work with me! </p>
 
 <!---
 sarahhcheng/sarahhcheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
