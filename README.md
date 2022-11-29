@@ -1,5 +1,5 @@
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I’m Sarah Cheng </h2>
-
+<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I am Sarah Cheng </h2>
+<p>I am currently learning React.js <p>
 <img src="http://logos-download.com/wp-content/uploads/2016/10/UBC_logo.png" width=15> A second year Computer Science and Business student at UBC
 
 <img src="http://pluspng.com/img-png/blackberry-logo-png-bbm-blackberry-messenger-logo-png-transp-1819438-png-images-pluspng-2400x2400.png" width=15> Currently a Security Response Program Manager Intern at BlackBerry
