@@ -11,7 +11,7 @@
 <h3>Connect with me! </h3>
 <a href="https://www.linkedin.com/in/sarah-cheng-/" ><img src="https://currentebikes.com/wp-content/uploads/linkedin-logo-3.png" width=32></a> 
 <a href="mailto:sarahcheng40@gmail.com">
-  <img img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" alt="Gmail"/>
+  <img img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width=32 alt="Gmail"/>
   </a>
 
 <!---
