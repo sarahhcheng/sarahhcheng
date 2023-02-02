@@ -2,7 +2,11 @@
 <p>I am currently learning React.js <p>
 <img src="http://logos-download.com/wp-content/uploads/2016/10/UBC_logo.png" width=15> A second year Computer Science and Business student at UBC
 
-<img src="http://pluspng.com/img-png/blackberry-logo-png-bbm-blackberry-messenger-logo-png-transp-1819438-png-images-pluspng-2400x2400.png" width=15> Currently a Security Response Program Manager Intern at BlackBerry
+💻 Currently a Software Developer Intern at SAP
+
+ <img src="http://pluspng.com/img-png/blackberry-logo-png-bbm-blackberry-messenger-logo-png-transp-1819438-png-images-pluspng-2400x2400.png" width=15> Previously: Security Response Program Manager Intern at BlackBerry
+
+🚀 Software Developer at UBC LaunchPad
 
 👩🏻‍💻 I’m also an Undergraduate Teaching Assistant for CPSC 110: Intro to Programming at UBC
   
