@@ -4,7 +4,7 @@
 
 👩🏻‍💻 Previously a Software Developer Intern @ SAP
 
- <img src="http://pluspng.com/img-png/blackberry-logo-png-bbm-blackberry-messenger-logo-png-transp-1819438-png-images-pluspng-2400x2400.png" width=15> Previously a Security Response Program Manager Intern at BlackBerry
+ <img src="http://pluspng.com/img-png/blackberry-logo-png-bbm-blackberry-messenger-logo-png-transp-1819438-png-images-pluspng-2400x2400.png" width=15> Previously a Security Response Program Manager Intern @ BlackBerry
 
 🚀 Software Developer @ UBC LaunchPad
 
