@@ -1,14 +1,14 @@
 <h2> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I am Sarah Cheng </h2>
 
-💻 Currently a Software Engineer Intern at Microsoft
+💻 Previously Software Engineer Intern @ Microsoft
 
-👩🏻‍💻 Previously a Software Developer Intern at SAP
+👩🏻‍💻 Previously a Software Developer Intern @ SAP
 
  <img src="http://pluspng.com/img-png/blackberry-logo-png-bbm-blackberry-messenger-logo-png-transp-1819438-png-images-pluspng-2400x2400.png" width=15> Previously a Security Response Program Manager Intern at BlackBerry
 
-🚀 Software Developer at UBC LaunchPad
+🚀 Software Developer @ UBC LaunchPad
 
-👩🏻‍💻 I’m also an Undergraduate Teaching Assistant for CPSC 110: Intro to Programming at UBC
+👩🏻‍💻 I’m also an Undergraduate Teaching Assistant for CPSC 110: Intro to Programming @ UBC
   
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahhcheng&show_icons=true&locale=en&layout=compact" alt="sarahhcheng" /></p>
 
