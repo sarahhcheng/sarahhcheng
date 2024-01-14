@@ -1,14 +1,8 @@
 <h2> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I am Sarah Cheng </h2>
 
-💻 Previously Software Engineer Intern @ Microsoft
+I am a Computer Science and Business Student @ UBC. I enjoy using technology to solve modern day problems and I am always looking for new challenges. I have experience in fullstack development through past internships and projects.
 
-👩🏻‍💻 Previously a Software Developer Intern @ SAP
-
- <img src="http://pluspng.com/img-png/blackberry-logo-png-bbm-blackberry-messenger-logo-png-transp-1819438-png-images-pluspng-2400x2400.png" width=15> Previously a Security Response Program Manager Intern @ BlackBerry
-
-🚀 Software Developer @ UBC LaunchPad
-
-👩🏻‍💻 I’m also an Undergraduate Teaching Assistant for CPSC 110: Intro to Programming @ UBC
+👩🏻‍💻 Previously: Software Engineer Intern @ Microsoft, Software Developer Intern @ SAP, Program Management Intern @ BlackBerry
   
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahhcheng&show_icons=true&locale=en&layout=compact" alt="sarahhcheng" /></p>
 
